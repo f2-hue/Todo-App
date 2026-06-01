@@ -27,14 +27,26 @@ FAHAD MOHAMEDI IDRRISA 24BCS005
 ------------------------------------------
 
 1.git init
-2.git commit -m "Initialize todo app project structure"
-3.git commit -m "Create base HTML layout"
-4.git commit -m "Add responsive styling"
-5.git commit -m "Implement task creation and deletion"
-6.git commit -m "Add event delegation and task completion"
-7.git commit -m "Implement localStorage persistence"
-8.git commit -m "Add validation empty state and keyboard support"
-9.git config --global user.name "f2-hue"
-10.git config --global user,email "fahadmohamediidrisa@gmail.com"
-11.git push -u origin main
+------------
+2.git add .
+----------------
+3.git config --global user.name "f2-hue"
+-------------------------------------------
+4.git config --global user,email "fahadmohamediidrisa@gmail.com"
+-----------------------------------------------------------------
+5.git commit -m "Initialize todo app project structure"
+------------------------------------------------------
+6.git commit -m "Create base HTML layout"
+------------------------------------------------------
+7.git commit -m "Add responsive styling"
+----------------------------------------
+6.git commit -m "Implement task creation and deletion"
+---------------------------------------------------------
+7.git commit -m "Add event delegation and task completion"
+---------------------------------------------------------
+8.git commit -m "Implement localStorage persistence"
+------------------------------------------------------
+9.git commit -m "Add validation empty state and keyboard support"
+----------------------------------------------------------
+10.git push -u origin main
 
